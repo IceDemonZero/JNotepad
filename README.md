@@ -9,3 +9,6 @@ Just copy or download. There is an executable jar for downloading the program
 
 # Java version
 Made in version 1.8
+
+# Preview
+![Preview](https://github.com/IceDemonZero/JNotepad/assets/37199996/5072e39f-cf2a-4326-bc80-94fbe8a7394a)
