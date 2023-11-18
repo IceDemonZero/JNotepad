@@ -1,5 +1,5 @@
 # JNotepad
-This program is a text-editing digital notepad. It uses the swing GUI and the AWT. The program can perform basic note-taking program functions such as creating a new file, opening .txt files, saving files and undoing and redoing text. You can use CTRL-Z to undo text and CTRL-Y to redo text.
+JNotepad is a text-editing digital notepad. It uses the swing GUI and the AWT. The program can perform basic note-taking program functions such as creating a new file, opening .txt files, saving files and undoing and redoing text. You can use CTRL-Z to undo text and CTRL-Y to redo text.
 
 ## Prerequisites
 None. Just have the latest version of Java installed.
